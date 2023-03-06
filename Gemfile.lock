@@ -207,7 +207,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   capybara
-  debug
+  debug (~> 1.7.0)
   importmap-rails
   jbuilder
   puma (~> 5.0)
